@@ -35,7 +35,7 @@ const TaskListItem = ({
         />
         <label>
           <span className='description'>{task.label}</span>
-          <span className='created'>ds{ago}</span>
+          <span className='created'>{ago}</span>
         </label>
         <button className='icon icon-edit' onClick={handleEdit}></button>
         <button className='icon icon-destroy' onClick={removeItem}></button>
