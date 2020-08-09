@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Todo.css';
+import './Todo.sass';
 
 import NewTaskItem from '../components/NewTaskInput';
 import TaskList from '../components/TaskList';

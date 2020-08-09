@@ -1,5 +1,5 @@
 import React from 'react';
-import './TaskFooter.css';
+import './TaskFooter.sass';
 
 const TaskFooter = ({
   filteredTask,

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './NewTaskInput.css';
+import './NewTaskInput.sass';
 
 const NewTaskItem = ({ addTask }) => {
   const [value, setValue] = useState('');

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import './TaskList.css';
+import './TaskList.sass';
 import TaskListItem from '../TaskListItem';
 import { TasksContext } from '../../context';
 import TaskFooter from '../TaskFooter';

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './TaskListItem.css';
+import './TaskListItem.sass';
 
 const TaskListItem = ({
   task,
